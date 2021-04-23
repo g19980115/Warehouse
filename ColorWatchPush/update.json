@@ -5,6 +5,6 @@
  "appName": "Color表盘推送", 
  "fileSize": 2550715, 
  "time": 1619167947, 
- "message": "1.修复表盘商城下载地址为百度云时无法跳转的问题\n2.新增记住商城账号密码功能", 
+ "message": "修复表盘商城下载地址为百度云时无法跳转的问题\n新增记住商城账号密码功能", 
  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/Color%E8%A1%A8%E7%9B%98%E6%8E%A8%E9%80%81V1.2.7.apk" 
 }
