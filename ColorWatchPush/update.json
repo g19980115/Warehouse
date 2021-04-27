@@ -1,10 +1,10 @@
 {
  "result": "0", 
- "versionCode": 19, 
- "versionName": "v1.2.7", 
+ "versionCode": 24, 
+ "versionName": "v1.3.1", 
  "appName": "Color表盘推送", 
- "fileSize": 2550715, 
- "time": 1619167947, 
- "message": "修复表盘商城下载地址为百度云时无法跳转的问题\n新增记住商城账号密码功能", 
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/Color%E8%A1%A8%E7%9B%98%E6%8E%A8%E9%80%81V1.2.7.apk" 
+ "fileSize": 2555125, 
+ "time": 1619516538, 
+ "message": "1、新增本地搜索功能\n2、简化推送所需步骤,此版本后不再移动本地表盘文件\n3、修复商城在低版本安卓上无法下载的问题\n", 
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.3.1.apk" 
 }
