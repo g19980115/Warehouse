@@ -1,0 +1,10 @@
+{
+ "result": "0", 
+ "versionCode": 26,
+ "versionName": "v1.3.4",
+ "appName": "Color表盘推送", 
+ "fileSize": 2555125, 
+ "time": 1619516538, 
+ "message": "1、新增本地搜索功能\n2、简化推送所需步骤,此版本后不再移动本地表盘文件\n3、修复商城在低版本安卓上无法下载的问题\n", 
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.3.1.apk" 
+}
