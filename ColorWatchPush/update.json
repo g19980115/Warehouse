@@ -1,10 +1,10 @@
 {
  "result": "0", 
- "versionCode": 28,
- "versionName": "v1.3.7",
+ "versionCode": 29,
+ "versionName": "v1.3.9",
  "appName": "Color表盘推送", 
  "fileSize": 2559221,
  "time": 1619516538, 
- "message": "1、修复商城无法记住账号密码的问题",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.3.7.apk"
+ "message": "1、修复在线升级问题",
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.3.9.apk"
 }
