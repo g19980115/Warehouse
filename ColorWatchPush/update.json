@@ -1,10 +1,10 @@
 {
  "result": "0", 
- "versionCode": 31,
- "versionName": "v1.4.1",
+ "versionCode": 32,
+ "versionName": "v1.4.2",
  "appName": "Color表盘推送", 
  "fileSize": 2563317,
- "time": 1619516538, 
- "message": "1、优化推送固件时无法搜索到手表的问题\n2、修复部分手机文字颜色显示异常的问题",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.1.apk"
+ "time": 1623038317,
+ "message": "1、优化权限请求，没有授予Data权限时，也可搜索其它有权限的目录",
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.2.apk"
 }
