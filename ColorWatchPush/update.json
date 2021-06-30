@@ -1,11 +1,11 @@
 {
  "result": "0",
- "versionCode": 35,
- "versionName": "v1.4.6",
+ "versionCode": 37,
+ "versionName": "v1.4.8",
  "appName": "Color表盘推送",
- "fileSize": 2567413,
+ "fileSize": 2182389,
  "time": 1623920111,
- "message": "1、修复部分情况下闪退的问题\n2、新增自动关闭表盘商城弹窗",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.7.apk"
+ "message": "1、修复部分情况下闪退的问题\n2、优化自动关闭商城弹窗效果",
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.8.apk"
 }
 
