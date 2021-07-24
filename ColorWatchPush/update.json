@@ -1,11 +1,11 @@
 {
  "result": "0",
- "versionCode": 39,
- "versionName": "v1.4.9",
+ "versionCode": 40,
+ "versionName": "v1.5.0",
  "appName": "Color表盘推送",
- "fileSize": 2182466,
+ "fileSize": 2186647,
  "time": 1623920111,
- "message": "1、新增手动输入手表Mac地址",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.9.apk"
+ "message": "1、优化：商城下载可以显示文件大小了",
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.0.apk"
 }
 
