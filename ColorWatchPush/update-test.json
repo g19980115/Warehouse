@@ -6,5 +6,7 @@
  "fileSize": 2567413,
  "time": 1623920111,
  "message": "1、修复部分情况下闪退的问题",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.6.apk"
+ "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.4.6.apk",
+ "shopDomain": "shop.kyle6.cn",
+ "shopMainUrl": "http://shop.kyle6.cn/zml/xm/color/"
 }
