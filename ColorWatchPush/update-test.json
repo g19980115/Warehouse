@@ -1,12 +1,12 @@
 {
- "result": "0",
- "versionCode": 42,
- "versionName": "v1.5.2",
- "appName": "Color表盘推送",
- "fileSize": 2186647,
- "time": 1623920111,
- "message": "1、适配新版商城",
- "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.2.apk",
- "shopDomain": "shop.kyle6.cn",
- "shopMainUrl": "http://shop.kyle6.cn/zml/xm/"
+  "result": "0",
+  "versionCode": 42,
+  "versionName": "v1.5.2",
+  "appName": "Color表盘推送",
+  "fileSize": 2186647,
+  "time": 1623920111,
+  "message": "1、适配新版商城",
+  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.2.apk",
+  "shopDomain": "shop.kyle6.cn",
+  "shopMainUrl": "http://shop.kyle6.cn/zml/xm/"
 }
