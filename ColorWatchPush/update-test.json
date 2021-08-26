@@ -1,15 +1,14 @@
 {
   "result": "0",
-  "versionCode": 45,
-  "versionName": "v1.5.5",
+  "versionCode": 46,
+  "versionName": "v1.5.6",
   "appName": "Color表盘推送",
   "fileSize": 2186647,
   "time": 1623920111,
-  "message": "1、新增网页多窗口功能\n长按网页时可以选择在新窗口打开网页",
-  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.5.apk",
+  "message": "1、新增网页多窗口功能，长按网页时可以选择在新窗口打开网页\n2.修复已知bug",
+  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.6.apk",
   "shopDomain": "shop.kyle6.cn",
   "shopMainUrl": "http://shop.kyle6.cn/zml/xm/",
   "contact": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3D4yAMXZIXf6Y3nQyJAhZtOpUr_dTUa0l5",
   "contactTip": "加群答案：小米color"
 }
-
