@@ -10,5 +10,6 @@
   "shopDomain": "shop.kyle6.cn",
   "shopMainUrl": "http://shop.kyle6.cn/zml/xm/",
   "contact": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3D4yAMXZIXf6Y3nQyJAhZtOpUr_dTUa0l5",
-  "contactTip": "加群答案：小米color"
+  "contactTip": "加群答案：小米color",
+  "devices": [{"n":"小米手表Color","m":"midr.watch.ds"},{"n":"小米Color运动版","m":"midr.watch.sports"},{"n":"小米Color2", "m":"midr.watch.k63"},{"n":"小米手表","m":"xiaomi.watch.mars"},{"n":"Redmi 手环","m":"mijia.watch.band01"},{"n":"小米手环5", "m":"hmpace.bracelet.v5"},{"n":"小米手环6","m":"hmpace.motion.v6"},{"n":"Redmi 手表","m":"mijia.watch.v1"},{"n":"Redmi 手表 2","m":"midr.watch.k65"}]
 }
