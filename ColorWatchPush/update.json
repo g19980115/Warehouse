@@ -1,15 +1,15 @@
 {
   "result": "0",
-  "versionCode": 46,
-  "versionName": "v1.5.6",
+  "versionCode": 48,
+  "versionName": "v1.5.8",
   "appName": "Color表盘推送",
-  "fileSize": 2186647,
-  "time": 1623920111,
-  "message": "1、新增网页多窗口功能，长按网页时可以选择在新窗口打开网页\n2.修复已知bug",
-  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.6.apk",
+  "fileSize": 2500747,
+  "time": 1679474845,
+  "message": "1、完善部分提示",
+  "url": "https://cdn.jsdelivr.net/gh/g19980115/Warehouse@master/ColorWatchPush/ColorPushV1.5.8.apk",
   "shopDomain": "shop.kyle6.cn",
   "shopMainUrl": "http://shop.kyle6.cn/zml/xm/",
   "contact": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3D4yAMXZIXf6Y3nQyJAhZtOpUr_dTUa0l5",
   "contactTip": "加群答案：小米color",
-  "devices": [{"n":"小米手表Color","m":"midr.watch.ds"},{"n":"小米Color运动版","m":"midr.watch.sports"},{"n":"小米Color2", "m":"midr.watch.k63"},{"n":"小米手表","m":"xiaomi.watch.mars"},{"n":"Redmi 手环","m":"mijia.watch.band01"},{"n":"小米手环5", "m":"hmpace.bracelet.v5"},{"n":"小米手环6","m":"hmpace.motion.v6"},{"n":"Redmi 手表","m":"mijia.watch.v1"},{"n":"Redmi 手表 2","m":"midr.watch.k65"}]
+  "devices": [{"n":"小米Watch S2 46mm","m":"midr.watch.m62s"},{"n":"小米Watch S2 42mm","m":"midr.watch.m62a"},{"n":"小米Watch S1 Pro","m":"mijia.watch.l61"},{"n":"小米手表Color","m":"midr.watch.ds"},{"n":"小米Color运动版","m":"midr.watch.sports"},{"n":"小米Color2", "m":"midr.watch.k63"},{"n":"小米Watch S1", "m":"midr.watch.k62"},{"n":"小米手表","m":"xiaomi.watch.mars"},{"n":"Redmi 手环","m":"mijia.watch.band01"},{"n":"小米手环5", "m":"hmpace.bracelet.v5"},{"n":"小米手环6","m":"hmpace.motion.v6"},{"n":"小米手环7","m":"hmpace.watch.v7"},{"n":"小米手环7Pro","m":"hqbd3.watch.l67"},{"n":"Redmi 手表","m":"mijia.watch.v1"},{"n":"Redmi 手表 2","m":"midr.watch.k65"}]
 }
