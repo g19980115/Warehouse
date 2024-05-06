@@ -1,0 +1,64 @@
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>隐私政策</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+<style>body { margin: 16px}</style>
+
+<p style="line-height: 1.75em;">
+    本应用没有注册功能，不会与您的身份产生任何关联，我方不会收集任何隐私数据。</p>
+
+<p style="line-height: 1.75em;"><b>本应用申请的权限列表及用途描述：</b></p>
+<ul>
+    <li><a>获取应用列表：用户选择图标或者添加跳转活动时，可以选择从应用列表获取参数。</a></li>
+    <li><a>安装快捷方式：用于在桌面上创建快捷方式</a></li>
+    <li><a>相机：用于扫码导入功能</a></li>
+    <li><a>蓝牙：用于实现快捷开关蓝牙功能</a></li>
+    <li><a>通知：用于展示用户自定义的通知栏快捷按钮</a></li>
+    <li><a>开机启动：用于开机后展示用户自定义通知、刷新小部件。(默认关闭)</a></li>
+</ul>
+<p style="line-height: 1.75em;"><b>为了实现扫码导入功能，本应用接入了以下SDK：</b></p>
+<p style="line-height: 1.75em;"><b>第三方SDK名称：</b>华为统一扫码SDK（Android版）<br/>
+    <b>第三方名称：</b>华为软件技术有限公司<br/>
+    <b>第三方收集个人信息类型：</b>文字信息、图片、网络信息、应用基本信息、运营商信息、设备的硬件信息、设备型号、操作系统、系统设置信息、有关您使用本应用的信息<br/>
+    <b>使用目的：</b>为应用提供码生成或扫码等能力<br/>
+    <b>该SDK的隐私政策链接：</b><a name="tv_links" style="color: rgb(176, 127, 192);"
+                                  href="https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050043971"><span>SDK隐私安全说明</span></a>
+</p>
+
+<p style="line-height: 1.75em;">
+    如果您不需要上述权限中的功能，可以拒绝这些权限，不会影响应用的基本使用。</p>
+<br/>
+<p><a name="tv_links" style="color: rgb(176, 127, 192);" href="javascript:jumpToLicenses()">开源许可证</a></p>
+
+<script language="javascript" type="text/javascript">
+        function getQueryString(name) {
+            var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;
+        }
+        let color = getQueryString("color");
+        if (color != null) {
+            let elements = document.getElementsByName("tv_links");
+            if (elements != null) {
+                elements.forEach(function(i) {
+                    i.style.color = color;
+                })
+            }
+        }
+        function jumpToLicenses(){
+            let color = getQueryString("color");
+            window.location="licenses.html?color="+encodeURIComponent(color);
+        }
+</script>
+</body>
+
+</html>
