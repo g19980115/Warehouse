@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "icon": "https://gw.alipayobjects.com/mdn/rms_ded7ea/afts/img/A*qIfNR7DddW4AAAAAAAAAAAAAARQnAQ",
+      "name": "健康宝",
+      "subname": "支付宝",
+      "title": "北京 健康宝扫码(需要修改&需要无障碍)",
+      "path": "[{\"item\":{\"iconPath\":\"\",\"name\":\"北京健康宝\",\"path\":\"alipays://platformapi/startapp?appId\\u003d2021001135679870\",\"subName\":\"支付宝\",\"type\":2}},{\"item\":{\"name\":\"这里需要点进去配置姓名\",\"iconPath\":\"android.resource://com.syyf.quickpay/drawable/ic_warning\",\"path\":\"[{\\\"actionType\\\":0,\\\"delay\\\":1000,\\\"param1\\\":\\\"这里改成你的名字\\\",\\\"param2\\\":\\\"本人信息扫码登记\\\",\\\"timeout\\\":15000,\\\"type\\\":0}]\",\"type\":5}}]",
+      "version": 52,
+      "type": 6
+    },
+    {
+      "name": "健康宝",
+      "path": "pages/jxzq/cha-xun-jie-guo/index.html?code=false&isOpenBDCheck=1",
+      "pkg": "gh_e3b81975fe3c",
+      "subname": "微信",
+      "title": "北京 健康宝 | 健康码",
+      "type": 1
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icpib81Yfoibv0YVAg3WbHdibJKzsib5SQe3ddH3pY3KSkUQ/0/0",
+      "name": "深i您",
+      "path": "pages/mine/todo/code/code.html",
+      "pkg": "gh_9c23268d5db7",
+      "subname": "微信",
+      "title": "广东 深i您 | 健康码",
+      "type": 1
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/xibj5dBppWt21jI1KGCRlGia2ibyIIUj4ickJRjxVCqaicOu2QuCwYd33A63dM8tmXOiafE1nfG3ibbVlYHoJoBR75RuQ/640?wx_fmt=png&wxfrom=200",
+      "name": "穗康",
+      "path": "[{\"item\":{\"appId\":\"gh_8052c0bb85ba\",\"dlType\":-2,\"iconPath\":\"\",\"name\":\"穗康\",\"type\":1}},{\"item\":{\"iconPath\":\"\",\"name\":\"自动点击\",\"path\":\"[{\\\"actionType\\\":2,\\\"param1\\\":\\\"更多\\\",\\\"timeout\\\":15000,\\\"type\\\":0},{\\\"actionType\\\":2,\\\"delay\\\":100,\\\"param1\\\":\\\"我的健康码\\\",\\\"param2\\\":\\\"\\\",\\\"timeout\\\":15000,\\\"type\\\":0}]\",\"type\":5}}]",
+      "subname": "微信",
+      "title": "广东 穗康|健康码(无障碍版本,推荐)",
+      "type": 6,
+      "version": 53
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6qyANsjnMeHSeV9Mm8ic64ibdboKp4fYgqoJrksaPoX3TA/0/0",
+      "name": "深圳通+",
+      "path": "pages/qrcIndexWithMenu/qrcIndexWithMenu.html?synchro=true",
+      "pkg": "gh_5d980ccb0c36",
+      "subname": "微信",
+      "title": "广东 深圳通+ | 乘车码",
+      "type": 1
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_ykm",
+      "name": "粤康码",
+      "path": "weixin://dl/business/?t=QDZVQEO2z9f",
+      "subname": "微信链接",
+      "title": "广东 粤康码链接 | 健康码",
+      "type": 2
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_ykm",
+      "name": "粤康码",
+      "path": "#Intent;launchFlags=0x10000000;component=com.digitalgd.dgyss/com.digitalgd.module.common.view.SchemeFilterActivity;S.open_url=https%3A%2F%2Fyss.gdzwfw.gov.cn%2Fyss%2Fdefault%2F%23%2Fpages%2Fyiqing%2Fdaka%2Fuser%2Findex%2Findex%3Ffrom%3D3dtouch%26yss_channel%3Ds1;B.with_home_page=false;end",
+      "subname": "粤省事",
+      "title": "广东 粤省事App | 健康码",
+      "type": 2
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7TbgK5mdSCG1CRBBFYMKZltjK1kGhq84sDagusOicfFyg/0/0",
+      "name": "智桂通",
+      "path": "pages/healthCodeUserCenter.html",
+      "pkg": "gh_904638ba23f9",
+      "subname": "微信",
+      "title": "广西 健康码",
+      "author": "酷安@love_wjj",
+      "type": 1
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM46FFtmNT7pQ0BUic4UB79HqbdVpql8KKIqZwBPJTyPfww/0/0",
+      "name": "i武汉",
+      "path": "packages/health-code/pages/report-health/index?realname=true",
+      "pkg": "gh_ef33e6cd1cc9",
+      "subname": "微信",
+      "title": "湖北 i武汉",
+      "author": "酷安@果冻宝、@newbiable",
+      "type": 1
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/ibFF9gFZWtJG9SwodofWVHibcsxmqGbogEvogCded7LNIaS6IlPiaBCOHPQo1bybodJzSl48bjKYvoq1xiaibJ7UicKA/640?wx_fmt=png&wxfrom=200",
+      "name": "昌通码",
+      "path": "pages/second/health_cards/healthcards.html",
+      "pkg": "gh_50f6b41ceee6",
+      "subname": "微信",
+      "title": "江西 昌通码",
+      "author": "酷安@lteyox",
+      "type": 1
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4oXACWAYDkqmQhS5xg1ucXXUVA9XQ3LS0M8qmI8SwpGg/0/0",
+      "name": "辽事通",
+      "path": "pages/passCode/main.html",
+      "pkg": "gh_3bdf8fd1bfe1",
+      "subname": "微信",
+      "title": "辽宁 辽事通",
+      "author": "酷安@你来杀我啊",
+      "type": 1
+    },
+    {
+      "name": "天府通",
+      "pkg": "gh_f0f2d3970dbc",
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4Tozv1NL1iaQsp8Ysm2t6SyVvWAneamVj8J3CZwVvm4Mg/0/0",
+      "subname": "微信",
+      "type": 1,
+      "title": "四川 天府通 | 健康码"
+    },
+    {
+      "name": "健康码",
+      "pkg": "gh_18bd98dd6692",
+      "path": "pkg-main/pages/myCode/index.html",
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/ibFuDZTD7icO6oicgboctxiaySA509HOmZMG7hKR9AnEGgCvm4ecv4CO7ic4eeoFnAuPSw3npKTtd9icia4CTxVxGVKlQ/640?wx_fmt=png&wxfrom=200",
+      "subname": "微信",
+      "type": 1,
+      "title": "陕西 一码通 | 健康码",
+      "author": "酷安@冒泡的泡泡"
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/BJonO6UOlfxBFwbzL0O8iaZ7n84dyWooic1QqHewlmu3c7xzwQbib0RMI8yyv6k7ZCIJu68lTfGazbfj1iawD2A63A/640?wx_fmt=png&wxfrom=200",
+      "name": "健康和田",
+      "subname": "微信",
+      "title": "新疆和田健康码(需要无障碍)",
+      "path": "[{\"item\":{\"appId\":\"gh_811ff7871ae8\",\"dlType\":-2,\"iconPath\":\"\",\"id\":0,\"name\":\"健康和田\",\"path\":\"\",\"subName\":\"\",\"type\":1,\"workMode\":0},\"taskId\":0},{\"delay\":0,\"item\":{\"appId\":\"\",\"dlType\":-2,\"iconPath\":\"\",\"id\":0,\"name\":\"默认名称\",\"path\":\"[{\\\"actionType\\\":0,\\\"param1\\\":\\\"我的健康码\\\",\\\"timeout\\\":15000,\\\"type\\\":0},{\\\"actionType\\\":0,\\\"param1\\\":\\\"个人码\\\",\\\"timeout\\\":15000,\\\"type\\\":0}]\",\"subName\":\"\",\"type\":5,\"workMode\":0}}]",
+      "version": "52",
+      "type": 6
+    }
+  ]
+}

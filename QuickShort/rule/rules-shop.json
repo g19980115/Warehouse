@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_douyin.png",
+      "name": "抖音商城",
+      "path": "snssdk1128://mall/xtab",
+      "pkg": "com.ss.android.ugc.aweme",
+      "subname": "抖音",
+      "title": "抖音商城",
+      "type": 2
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"sslocal://webcast_lynxview?type\\u003dfullscreen\\u0026url\\u003dhttps%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Ffalcon%2Fdouyin%2Fecommerce_orders_douyin%2Fapp_new%2Ftemplate.js%3Fenter_from%3Dug_ecom_widget.order_logistics_info_tab%26page_name%3Dorder_list_page%26tab_id%3D0\\u0026page\\u003decom_mall\\u0026hide_nav_bar\\u003d1\\u0026hide_status_bar\\u003d0\\u0026status_bar_color\\u003dblack\\u0026show_close\\u003d0\\u0026trans_status_bar\\u003d1\\u0026hide_loading\\u003d1\\u0026enable_share\\u003d0\\u0026web_bg_color\\u003dffffff\\u0026show_back\\u003d0\\u0026inject_config_channel\\u003decom_mall_awemelite\\u0026inject_scene\\u003ddefault\\u0026enable_latch\\u003d1\",\"extras\":[]}",
+      "name": "订单",
+      "path": "com.ss.android.ugc.aweme.app.DeepLinkHandlerActivity",
+      "pkg": "com.ss.android.ugc.aweme",
+      "subname": "抖音",
+      "title": "抖音商城订单",
+      "type": 0
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"sslocal://webcast_lynxview?type\\u003dfullscreen\\u0026url\\u003dhttps%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Ffalcon%2Fdouyin%2Fecommerce_orders_douyin%2Fapp_new%2Ftemplate.js%3Fenter_from%3Dug_ecom_widget.order_logistics_info_tab%26page_name%3Dorder_list_page%26tab_id%3D3\\u0026page\\u003decom_mall\\u0026hide_nav_bar\\u003d1\\u0026hide_status_bar\\u003d0\\u0026status_bar_color\\u003dblack\\u0026show_close\\u003d0\\u0026trans_status_bar\\u003d1\\u0026hide_loading\\u003d1\\u0026enable_share\\u003d0\\u0026web_bg_color\\u003dffffff\\u0026show_back\\u003d0\\u0026inject_config_channel\\u003decom_mall_awemelite\\u0026inject_scene\\u003ddefault\\u0026enable_latch\\u003d1\",\"extras\":[]}",
+      "name": "待收货",
+      "path": "com.ss.android.ugc.aweme.app.DeepLinkHandlerActivity",
+      "pkg": "com.ss.android.ugc.aweme",
+      "subname": "抖音",
+      "title": "抖音商城-待收货",
+      "type": 0
+    },
+    {
+      "name": "价保中心",
+      "subname": "京东",
+      "pkg": "com.jingdong.app.mall",
+      "path": "https://h5.m.jd.com/babelDiy/Zeus/2RePMzTqg6UoffvMwtwVeMcnPGeg/index.html?defaultViewTab=0&appId=cuser&type=25#/",
+      "title": "京东 价保中心",
+      "type": 2
+    },
+    {
+      "name": "订单",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params={category:jump,des:orderlist}",
+      "title": "京东 全部订单",
+      "type": 2
+    },
+    {
+      "name": "待收货",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params={category:jump,des:orderlist,functionId:daishouhuo}",
+      "title": "京东 待收货",
+      "type": 2
+    },
+    {
+      "name": "我的账单",
+      "subname": "京东",
+      "path": "android-app://com.jingdong.app.mall/https/bill.jd.com/bill/mList.html?source=61&entrance=5#Intent;component=com.jingdong.app.mall/.open.BrowserActivity;end",
+      "title": "京东 我的账单",
+      "type": 2
+    },
+    {
+      "name": "我的预约",
+      "subname": "京东",
+      "path": "openapp.jdmobile://virtual?params={category:jump,des:jdreactcommon,modulename:JDReactMyCalendar,appname:JDReactMyCalendar,ishidden:true,param:{}}",
+      "title": "京东 我的预约",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "name": "优惠券",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params={category:jump,des:mycoupon}",
+      "title": "京东 优惠券",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "name": "订单",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/orders.html?type=0",
+      "title": "拼多多 全部订单",
+      "type": 2
+    },
+    {
+      "name": "待收货",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/orders.html?type=3",
+      "title": "拼多多 待收货",
+      "type": 2
+    },
+    {
+      "name": "我的快递",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/psnl_goods_help.html?_t_module_name=assistant_search",
+      "title": "拼多多 我的快递",
+      "author": "酷安@Tosme",
+      "type": 2
+    },
+    {
+      "name": "取快递",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/psnl_goods_help.html?_t_module_name=assistant_pickup",
+      "title": "拼多多 取快递",
+      "type": 2
+    },
+    {
+      "name": "拍照购",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/search_image_capture.html",
+      "title": "拼多多 拍照购",
+      "type": 2
+    },
+    {
+      "name": "买菜",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/vgt_mall_list.html?_p_page=vgt_mall_list",
+      "title": "拼多多买菜",
+      "author": "酷安@psychosiss",
+      "type": 2
+    },
+    {
+      "name": "价保中心",
+      "subname": "淘宝",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fz%2Fmarketing-tools%2Fmkt%2Fprice-center%3FdisableNav%3DYES%26sourceChannel%3D2%26spm%3Da311a.7996332.0.0&action=ali.open.nav&module=h5&bootImage=0&afcPromotionOpen=false",
+      "title": "淘宝 价保中心",
+      "type": 2
+    },
+    {
+      "name": "买菜",
+      "subname": "淘宝",
+      "path": "https://taocaicai.m.taobao.com/render/app/mmc-youxuan/taocaicai-ssr/index.html?disableNav=YES&status_bar_transparent=true&isTinyApp=true&_ariver_appid=3000000083212031&spm=a2141.miniapplist.zjsy.9#Intent;component=com.taobao.taobao/com.taobao.browser.BrowserActivity;end",
+      "title": "淘宝买菜",
+      "type": 2
+    },
+    {
+      "name": "订单",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "http://h5.m.taobao.com/awp/base/order/listultron.htm",
+      "title": "淘宝 全部订单",
+      "type": 2
+    },
+    {
+      "name": "待收货",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "http://h5.m.taobao.com/awp/base/order/listultron.htm?tabCode=waitConfirm",
+      "title": "淘宝 待收货",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "搜索",
+      "subname": "美团",
+      "path": "imeituan://www.meituan.com/page/search/home?lch=mhq0lV4qPTqkOwMXUnt7H3nSQ&entrance=4",
+      "title": "美团 搜索",
+      "type": 2
+    },
+    {
+      "name": "全部订单",
+      "subname": "美团",
+      "path": "imeituan://www.meituan.com/page/ordercenterlist",
+      "title": "美团 全部订单",
+      "type": 2
+    },
+    {
+      "name": "待收货",
+      "subname": "美团",
+      "path": "imeituan://www.meituan.com/msc?appId=003f9bc374244937&targetPath=/pages/order/index?to=6&userCenterSimplify=1",
+      "title": "美团 待收货",
+      "type": 2
+    },
+    {
+      "name": "买菜",
+      "subname": "美团",
+      "path": "imeituan://www.maicai.com/mrn_modal?com.sankuai.waimai.router.from=2&modal_mode=1&mrn_entry=mall-components&memorialConfig={}&data={\"cid\":\"c_ey7o4dd\"}&modal=true&theme=maicai&mrn_min_version=50059.0.0&mrn_component=address-select-modal&mrn_biz=maicai&modal_metrics_task_name=mall-components_address-select-modal&modal_opacity=0&referer=main_tab_home&poiId=76&poiBiz=2&poiShowType=0",
+      "title": "美团买菜|小象超市",
+      "type": 2
+    },
+    {
+      "name": "优选",
+      "subname": "美团",
+      "path": "imeituan://www.meituan.com/mmp?appId=gh_84b9766b95bc&targetPath=%2Fpages%2Findex%2Findex",
+      "title": "美团优选",
+      "type": 2
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_scan",
+      "name": "扫一扫",
+      "path": "alipays://platformapi/startapp?saId=10000007&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "subname": "支付宝",
+      "title": "支付宝扫一扫",
+      "type": 2
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_scan",
+      "name": "扫一扫",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;B.LauncherUI.From.Scaner.Shortcut=true;end",
+      "subname": "微信",
+      "title": "微信扫一扫",
+      "type": 2
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_pay",
+      "name": "付款码",
+      "path": "alipays://platformapi/startapp?saId=20000056&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "subname": "支付宝",
+      "title": "支付宝付款码",
+      "type": 2
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_pay",
+      "name": "付款码",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;S.LauncherUI.Shortcut.LaunchType=launch_type_offline_wallet;end",
+      "subname": "微信",
+      "title": "微信付款码",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_alipay_health.png",
+      "name": "电子医保码",
+      "path": "alipays://platformapi/startapp?appId=20002069&fromSource=quickWay&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "subname": "支付宝",
+      "title": "电子医保码",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
+      "name": "电子医保码",
+      "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
+      "pkg": "gh_45334679e384",
+      "subname": "微信",
+      "title": "电子医保码",
+      "type": 1
+    },
+    {
+      "name": "扫一扫",
+      "path": "wxwork://platformId=wechat&wwact=qrcode",
+      "subname": "企业微信",
+      "title": "企业微信扫一扫",
+      "type": 2,
+      "author": "酷安@小白一槑槑"
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"scheme_next_action\",\"type\":\"--es\",\"value\":\"scheme_next_action_scan_login\"}]}",
+      "name": "扫一扫",
+      "path": "com.alicloud.databox.launcher.splash.SplashActivity",
+      "pkg": "com.alicloud.databox",
+      "subname": "阿里云盘",
+      "type": 0,
+      "title": "阿里云盘 扫码",
+      "author": "酷安@只是路人而已丿"
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"initTab\",\"type\":\"--es\",\"value\":\"ai_scan\"}],\"flags\":-1}",
+      "name": "智能扫描",
+      "path": "com.baidu.netdisk.ocr.OCRTakePhotoActivity",
+      "pkg": "com.baidu.netdisk",
+      "subname": "百度网盘",
+      "title": "百度网盘 智能扫描",
+      "author": "酷安@中木59",
+      "type": 0
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"initTab\",\"type\":\"--es\",\"value\":\"qrcode\"}],\"flags\":-1}",
+      "name": "扫一扫",
+      "path": "com.baidu.netdisk.ocr.OCRTakePhotoActivity",
+      "pkg": "com.baidu.netdisk",
+      "subname": "百度网盘",
+      "title": "百度网盘 扫一扫",
+      "author": "酷安@中木59",
+      "type": 0
+    },
+    {
+      "name": "扫一扫",
+      "path": "OneTravel://shortcuts/open_scan",
+      "subname": "滴滴",
+      "title": "滴滴出行 扫一扫",
+      "type": 2
+    },
+    {
+      "name": "扫一扫",
+      "path": "snssdk1128://aweme/scan",
+      "subname": "抖音",
+      "title": "抖音 扫一扫",
+      "type": 2
+    },
+    {
+      "name": "哈啰出行",
+      "path": "hellobike://hellobike.com/platform/scan",
+      "subname": "哈啰",
+      "title": "哈啰出行 扫一扫",
+      "type": 2
+    },
+    {
+      "name": "扫一扫",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params={category:jump,des:native_scan}",
+      "title": "京东 扫一扫",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"key_jump_url\",\"type\":\"--es\",\"value\":\"https://www.myquark.cn/?qk_tech\\u003ddesktop\\u0026desktop_entry\\u003dcamera\\u0026camera_tab\\u003dscan_document\\u0026camera_sub_tab\\u003dscan_document\\u0026entry\\u003dphone_desktop_scan\"}],\"flags\":-1}",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
+      "name": "万能扫码",
+      "path": "com.ucpro.MainActivity",
+      "pkg": "com.quark.browser",
+      "subname": "夸克",
+      "title": "夸克 万能扫码",
+      "author": "酷安@中木59",
+      "type": 0
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "扫一扫",
+      "path": "imeituan://www.meituan.com/scanQRCode",
+      "subname": "美团",
+      "title": "美团扫一扫",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "付款码",
+      "path": "meituanwaimai://waimai.meituan.com/browser?inner_url=https://awp.meituan.com/payfe/union-pay-qrcode/index.html",
+      "subname": "美团外卖app",
+      "title": "美团付款码",
+      "author": "酷安@太多",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "付款码",
+      "path": "imeituan://www.meituan.com/web?url=https%3A%2F%2Fawp.meituan.com%2Fpayfe%2Funion-pay-qrcode%2Findex.html",
+      "subname": "美团",
+      "title": "美团付款码(有时打不开,建议用外卖app版)",
+      "author": "酷安@太多",
+      "type": 2
+    },
+    {
+      "name": "扫一扫",
+      "subname": "拼多多",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/qr_scan.html",
+      "pkg": "com.xunmeng.pinduoduo",
+      "title": "拼多多扫一扫",
+      "type": 2
+    },
+    {
+      "name": "拍照购",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/search_image_capture.html",
+      "title": "拼多多 拍照购",
+      "type": 2
+    },
+    {
+      "name": "扫码",
+      "path": "mqqapi://qrscan/open?source=1",
+      "pkg": "com.tencent.mobileqq",
+      "subname": "QQ",
+      "title": "QQ扫码(v9.0.25+)",
+      "author": "酷安@中木59",
+      "type": 2
+    },
+    {
+      "name": "收付款",
+      "path": "mqqapi://wallet/open?src_type=web&viewtype=0&version=1&view=8&entry=1",
+      "pkg": "com.tencent.mobileqq",
+      "subname": "QQ",
+      "title": "QQ 收付款(v9.0.25+)",
+      "author": "酷安@中木59",
+      "type": 2
+    },
+    {
+      "name": "扫码",
+      "path": "http://tb.cn/n/scancode",
+      "pkg": "com.taobao.taobao",
+      "subname": "淘宝",
+      "title": "淘宝 扫码",
+      "type": 2
+    },
+    {
+      "name": "拍照购",
+      "path": "taobao://h5.m.taobao.com/tusou/capture.html",
+      "subname": "淘宝",
+      "title": "淘宝 拍照购",
+      "type": 2
+    }
+  ]
+}

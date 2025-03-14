@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_scan",
+      "name": "扫一扫",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;B.LauncherUI.From.Scaner.Shortcut=true;end",
+      "subname": "微信",
+      "title": "A旧版微信扫一扫",
+      "type": 2
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_pay",
+      "name": "付款码",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;S.LauncherUI.Shortcut.LaunchType=launch_type_offline_wallet;end",
+      "subname": "微信",
+      "title": "A旧版微信付款码",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
+      "name": "电子医保码",
+      "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
+      "pkg": "gh_45334679e384",
+      "subname": "微信",
+      "title": "电子医保码",
+      "type": 1
+    },
+    {
+      "icon": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6qyANsjnMeHSeV9Mm8ic64ibdboKp4fYgqoJrksaPoX3TA/0/0",
+      "name": "深圳通+",
+      "path": "pages/qrcIndexWithMenu/qrcIndexWithMenu.html?synchro=true",
+      "pkg": "gh_5d980ccb0c36",
+      "subname": "微信",
+      "title": "广东 深圳通+ | 乘车码",
+      "type": 1
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/LMpuofDxmfcGwZLyHKUUprqf9pzs1gjxW4BB9EJvqicYQ4JGZQRZJeLIyibGgPCvQJpBKffJKpBpuJNKlSpibicdYg/640?wx_fmt=png&wxfrom=200",
+      "name": "公交码",
+      "subname": "微信",
+      "title": "湖北 i武汉-公交码(需要无障碍)",
+      "path": "[{\"item\":{\"appId\":\"gh_ef33e6cd1cc9\",\"iconPath\":\"\",\"id\":0,\"name\":\"i武汉\",\"path\":\"\",\"subName\":\"\",\"type\":1}},{\"item\":{\"appId\":\"\",\"dlType\":-2,\"iconPath\":\"\",\"name\":\"公交码\",\"path\":\"[{\\\"actionType\\\":2,\\\"delay\\\":0,\\\"param1\\\":\\\"个人中心\\\",\\\"param2\\\":\\\"乘车码\\\",\\\"timeout\\\":25000,\\\"type\\\":0},{\\\"actionType\\\":2,\\\"delay\\\":2000,\\\"param1\\\":\\\"公交码\\\",\\\"timeout\\\":15000,\\\"type\\\":0}]\",\"subName\":\"\",\"type\":5}}]",
+      "version": 52,
+      "type": 6
+    },
+    {
+      "extras": "0",
+      "icon": "android.resource://com.syyf.quickpay/drawable/ic_icon_shell",
+      "name": "dump小程序",
+      "path": "original_string\u003d$(dumpsys shortcut -p com.tencent.mm| grep com.tencent.mm.action.WX_SHORTCUT); ext_info\u003d$(echo \"$original_string\" | sed -n \u0027s/.*ext_info\u003d\\([^,]*\\).*/\\1/p\u0027); id\u003d$(echo \"$original_string\" | sed -n \u0027s/.*id\u003d\\([^,]*\\).*/\\1/p\u0027); token\u003d$(echo \"$original_string\" | sed -n \u0027s/.*token\u003d\\([^,]*\\).*/\\1/p\u0027); result\u003d\"#Intent;action\u003dcom.tencent.mm.action.WX_SHORTCUT;i.type\u003d1;S.ext_info\u003d$ext_info;S.id\u003d$id;S.token\u003d$token;end\"; echo $result",
+      "pkg": "",
+      "subname": "",
+      "title": "获取桌面小程序参数",
+      "type": 3,
+      "workMode": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "name": "一键通话",
+      "path": "[{\"item\":{\"appId\":\"com.tencent.mm\",\"iconPath\":\"\",\"name\":\"视频\",\"param1\":\"{\\\"action\\\":\\\"com.tencent.mm.ui.ShortCutDispatchAction\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"LauncherUI.Shortcut.LaunchType\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"launch_type_voip\\\"}]}\",\"path\":\"com.tencent.mm.ui.LauncherUI\",\"subName\":\"语音通话可把下方的Extras改为launch_type_voip_audio\",\"type\":0}},{\"item\":{\"iconPath\":\"android.resource://com.syyf.quickpay/drawable/ic_warning\",\"name\":\"进去改名字\",\"path\":\"[{\\\"actionType\\\":2,\\\"delay\\\":1000,\\\"param1\\\":\\\"在微信添加星标，然后这里写对方的昵称(无障碍容易掉权限，建议到[更多设置]激活自动打开无障碍)\\\",\\\"timeout\\\":8000,\\\"type\\\":0}]\",\"subName\":\"\",\"type\":5}}]",
+      "subname": "流水线",
+      "title": "微信一键通话(无障碍,需修改配置)",
+      "type": 6,
+      "version": 52
+    },
+    {
+      "name": "微信名片",
+      "path": "android-app://com.tencent.mm#Intent;action=com.tencent.mm.ui.ShortCutDispatchAction;launchFlags=0x14000000;S.LauncherUI.Shortcut.LaunchType=launch_type_my_qrcode;end",
+      "subname": "微信",
+      "title": "微信名片二维码",
+      "type": 2
+    },
+    {
+      "name": "文件传输助手",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=filehelper;end",
+      "subname": "微信",
+      "title": "文件传输助手",
+      "author": "酷安@客行无道",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "name": "微信网页",
+      "path": "am start -n com.tencent.mm/com.tencent.mm.plugin.webview.ui.tools.WebViewUI -d https://www.baidu.com",
+      "subname": "微信",
+      "title": "网页：微信打开网页",
+      "type": 3,
+      "workMode": 1,
+      "author": "酷安@dmin2015"
+    }
+  ]
+}

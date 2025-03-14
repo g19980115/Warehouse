@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "name": "百度公交",
+      "path": "baidumap://map/busnearby?busfrom=shortcut",
+      "subname": "百度",
+      "title": "百度实时公交",
+      "type": 2
+    },
+    {
+      "name": "足迹",
+      "path": "baidumap://map/footmark",
+      "subname": "百度地图",
+      "title": "百度地图 足迹",
+      "type": 2
+    },
+    {
+      "name": "回家",
+      "path": "baidumap://map/commonaddr?type=home",
+      "subname": "百度",
+      "title": "百度：回家",
+      "type": 2
+    },
+    {
+      "name": "去公司",
+      "path": "baidumap://map/commonaddr?type=company",
+      "subname": "百度",
+      "title": "百度：去公司",
+      "type": 2
+    },
+    {
+      "name": "上下班",
+      "path": "baidumap://map/moss",
+      "subname": "百度",
+      "title": "百度：上下班",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/N23qPnMaEicz2jUDxIKvr1qlviaSYbzYfJMsFADNodDpc84aD0rTfnDJWToouA1adibdDSpqsjHvRE74G1hym91QQ/640?wx_fmt=png&wxfrom=200",
+      "name": "实时公交",
+      "path": "amapuri://realtimeBus/home",
+      "subname": "高德",
+      "title": "高德实时公交",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/N23qPnMaEicz2jUDxIKvr1qlviaSYbzYfJMsFADNodDpc84aD0rTfnDJWToouA1adibdDSpqsjHvRE74G1hym91QQ/640?wx_fmt=png&wxfrom=200",
+      "name": "公交关注",
+      "path": "amapuri://ajx_realbus/RealBusAttentionPage",
+      "subname": "高德",
+      "title": "高德：公交关注",
+      "type": 2
+    },
+    {
+      "icon": "http://mapdownload.autonavi.com/aocs/files/3/1/24B502228BB0C8A584523125D8408EE4.png",
+      "name": "回家",
+      "path": "amapuri://commute?clearStack=1&dest=home",
+      "subname": "高德",
+      "title": "高德：回家",
+      "type": 2
+    },
+    {
+      "icon": "http://mapdownload.autonavi.com/aocs/files/3/1/E71F54FD0516CC2CBF841AA3B71266D5.png",
+      "name": "去公司",
+      "path": "amapuri://commute?clearStack=1&dest=corp",
+      "subname": "高德",
+      "title": "高德：去公司",
+      "type": 2
+    },
+    {
+      "name": "足迹",
+      "path": "amapuri://ajx?path=amap_bundle_content_value_added/src/track_record/TrackRecord.page.js",
+      "subname": "高德地图",
+      "title": "高德地图 足迹",
+      "type": 2
+    },
+    {
+      "name": "腾讯公交",
+      "path": "qqmap://map/mippy?moduleName=realtimebus&appName=HomePage&statusBar=dark&animationType=right&channel=shortcutmenu",
+      "subname": "腾讯地图",
+      "title": "腾讯地图公交",
+      "type": 2
+    },
+    {
+      "name": "乘车码",
+      "path": "qqmap://map/busCode",
+      "subname": "腾讯地图",
+      "title": "腾讯地图乘车码",
+      "type": 2
+    }
+  ]
+}
