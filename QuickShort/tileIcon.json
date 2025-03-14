@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "title": "扫一扫",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_alipay_sys"
+    },
+    {
+      "title": "扫一扫",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_wechat_sys"
+    },
+    {
+      "title": "付款码",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_alipay_qr"
+    },
+    {
+      "title": "付款码",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_wechat_qr"
+    },
+    {
+      "title": "乘车码",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_union_car"
+    },
+    {
+      "title": "计算器",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/calculate.png"
+    },
+    {
+      "title": "蓝牙",
+      "icon": "android.resource://com.syyf.quickpay/drawable/tile_bluetooth"
+    },
+    {
+      "title": "锁屏",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/tile_lock.png"
+    },
+    {
+      "title": "设置",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/tile_set.png"
+    },
+    {
+      "title": "字母G",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/tile_gg.png"
+    },
+    {
+      "title": "book",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/book.png"
+    },
+    {
+      "title": "brightness",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/brightness_low.png"
+    },
+    {
+      "title": "cached",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/cached.png"
+    },
+    {
+      "title": "cancel",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/cancel.png"
+    },
+    {
+      "title": "delete",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/delete.png"
+    },
+    {
+      "title": "desktop",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/desktop_windows.png"
+    },
+    {
+      "title": "car",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/directions_car.png"
+    },
+    {
+      "title": "railway",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/directions_railway.png"
+    },
+    {
+      "title": "don't_disturb",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/do_not_disturb.png"
+    },
+    {
+      "title": "extension",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/extension.png"
+    },
+    {
+      "title": "download",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/file_download.png"
+    },
+    {
+      "title": "gesture",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/gesture.png"
+    },
+    {
+      "title": "highlight",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/highlight.png"
+    },
+    {
+      "title": "home",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/home.png"
+    },
+    {
+      "title": "laptop",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/laptop.png"
+    },
+    {
+      "title": "airport",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/local_airport.png"
+    },
+    {
+      "title": "mall",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/local_mall.png"
+    },
+    {
+      "title": "mail",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/mail_outline.png"
+    },
+    {
+      "title": "music",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/music_note.png"
+    },
+    {
+      "title": "near_me",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/near_me.png"
+    },
+    {
+      "title": "notifications",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/notifications_none.png"
+    },
+    {
+      "title": "palette",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/palette.png"
+    },
+    {
+      "title": "timer",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/timer.png"
+    },
+    {
+      "title": "timer_off",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/timer_off.png"
+    },
+    {
+      "title": "visibility",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/visibility.png"
+    },
+    {
+      "title": "visibility_off",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/visibility_off.png"
+    },
+    {
+      "title": "warning",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/warning.png"
+    },
+    {
+      "title": "work",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/tiles/work.png"
+    }
+  ]
+}
