@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_pay",
+      "name": "收款",
+      "path": "alipayqr://platformapi/startapp?saId=20000123&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "subname": "支付宝",
+      "title": "A支付宝 收款",
+      "type": 2
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"alipays://platformapi/startapp?saId=200011235\",\"extras\":[{\"key\":\"fromDesktop\",\"type\":\"--ez\",\"value\":\"true\"},{\"key\":\"directly\",\"type\":\"--ez\",\"value\":\"true\"}]}",
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_car",
+      "name": "乘车码",
+      "path": "com.alipay.mobile.quinox.LauncherActivity",
+      "pkg": "com.eg.android.AlipayGphone",
+      "subname": "支付宝",
+      "title": "A支付宝 乘车码(新版,打开更快)",
+      "type": 0
+    },
+    {
+      "name": "菜鸟裹裹",
+      "path": "alipays://platformapi/startapp?appId=2021001141626787",
+      "subname": "支付宝",
+      "title": "菜鸟裹裹",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_alipay_health.png",
+      "name": "电子医保码",
+      "path": "alipays://platformapi/startapp?appId=20002069&fromSource=quickWay&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "subname": "支付宝",
+      "title": "电子医保码",
+      "type": 2
+    },
+    {
+      "name": "市民中心",
+      "path": "alipays://platformapi/startapp?appId=20000178",
+      "subname": "支付宝",
+      "title": "市民中心",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
+      "name": "支付宝网页",
+      "path": "alipays://platformapi/startapp?appId=20000067&url=http://www.baidu.com",
+      "subname": "支付宝",
+      "title": "网页：支付宝打开网页",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/zfb_zsgj.png",
+      "name": "掌上公交",
+      "path": "alipays://platformapi/startapp?appId=2021001126622372",
+      "subname": "支付宝",
+      "title": "支付宝掌上公交",
+      "author": "酷安@片刻浪漫",
+      "type": 2
+    }
+  ]
+}
