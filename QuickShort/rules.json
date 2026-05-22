@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_alipay.png",
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-alipay.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"支付宝合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-alipay.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"支付宝合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 支付宝合集",
       "type": 0,
@@ -13,11 +13,11 @@
       "version": 71
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_wechat.png",
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-wx.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"微信合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-wx.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"微信合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 微信合集",
       "type": 0,
@@ -29,7 +29,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-scan.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"扫码合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-scan.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"扫码合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 扫码合集",
       "type": 0,
@@ -37,11 +37,11 @@
       "version": 71
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_mall.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_mall.png",
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-shop.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"电商合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-shop.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"电商合集\"}]}",
       "title": "A 电商合集",
       "subname": "商城/订单",
       "type": 0,
@@ -49,11 +49,11 @@
       "version": 71
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_map.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_map.png",
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-map.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"地图、出行合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-map.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"地图、出行合集\"}]}",
       "subname": "地图、出行",
       "title": "A 地图合集",
       "type": 0,
@@ -78,7 +78,7 @@
       "type": 0
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_lock.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_lock.png",
       "name": "一键锁屏",
       "path": "com.syyf.quickpay.act.AcbtLockScreenActivity",
       "pkg": "com.syyf.quickpay",
@@ -90,7 +90,7 @@
     },
     {
       "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"type\",\"type\":\"--es\",\"value\":\"lock\"}]}",
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_lock.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_lock.png",
       "name": "Dhizuku锁屏",
       "path": "com.syyf.quickpay.act.DhizukuActivity",
       "pkg": "com.syyf.quickpay",
@@ -226,7 +226,7 @@
     },
     {
       "title": "夸克小说",
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_quark.png",
       "extras": "{\"action\":\"android.intent.action.VIEW\",\"category\":\"\",\"data\":\"https://www.myquark.cn/?qk_biz\\u003dnovel\\u0026qk_module\\u003dbookshelf\",\"extras\":[]}",
       "name": "书架",
       "path": "com.ucpro.MainActivity",
@@ -297,7 +297,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_dingding.png",
       "name": "钉钉网页",
       "path": "dingtalk://dingtalkclient/page/link?url=https://www.baidu.com",
       "subname": "钉钉",
@@ -305,7 +305,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_dingding.png",
       "name": "钉钉打卡",
       "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
       "subname": "钉钉",
@@ -324,7 +324,7 @@
       "version": 71
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_pay_transfer.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_pay_transfer.png",
       "name": "转账",
       "path": "upwallet://rn/rntransfer",
       "subname": "云闪付",
