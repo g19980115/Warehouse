@@ -5,7 +5,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-alipay.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"支付宝合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-alipay.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"支付宝合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 支付宝合集",
       "type": 0,
@@ -17,7 +17,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-wx.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"微信合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-wx.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"微信合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 微信合集",
       "type": 0,
@@ -29,7 +29,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-scan.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"扫码合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-scan.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"扫码合集\"}]}",
       "subname": "App1.7.0及以上支持",
       "title": "A 扫码合集",
       "type": 0,
@@ -41,7 +41,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-shop.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"电商合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-shop.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"电商合集\"}]}",
       "title": "A 电商合集",
       "subname": "商城/订单",
       "type": 0,
@@ -53,7 +53,7 @@
       "name": " ",
       "pkg": "com.syyf.quickpay",
       "path": "com.syyf.quickpay.act.RulesActivity",
-      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://quickshort.pages.dev/QuickShort/rule/rules-map.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"地图、出行合集\"}]}",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-map.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"地图、出行合集\"}]}",
       "subname": "地图、出行",
       "title": "A 地图合集",
       "type": 0,
@@ -101,12 +101,21 @@
     },
     {
       "name": "Dhizuku冻结解冻",
-      "title": "Dhizuku冻结解冻",
+      "title": "Dhizuku冻结解冻-隐藏应用",
       "path": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"冻结\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名，v1.8.3起支持批量，逗号分隔\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"hidden\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
       "pkg": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"解冻\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"hidden\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
       "subname": "开关",
       "type": 7,
       "version": 83
+    },
+    {
+      "name": "Dhizuku冻结解冻",
+      "title": "Dhizuku冻结解冻-挂起应用",
+      "path": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"冻结\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名，v1.8.3起支持批量，逗号分隔\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"suspend\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
+      "pkg": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"解冻\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"suspend\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
+      "subname": "开关",
+      "type": 7,
+      "version": 126
     },
     {
       "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"content\",\"type\":\"--es\",\"value\":\"这里写名称\"},{\"key\":\"type\",\"type\":\"--es\",\"value\":\"organizationName\"}]}",
@@ -125,6 +134,7 @@
       "pkg": "{\"item\":{\"iconPath\":\"\",\"name\":\"解冻\",\"param1\":\"0\",\"path\":\"pm enable com.android.vending \\u0026\\u0026 pm enable com.google.android.gms \\u0026\\u0026 pm enable com.google.android.gsf \\u0026\\u0026 pm enable com.google.android.onetimeinitializer \\u0026\\u0026 pm enable com.google.android.configupdater \\u0026\\u0026 pm enable com.google.android.ext.shared\",\"type\":3,\"workMode\":2}}",
       "subname": "默认为Shizuku模式，可点进去修改为root模式",
       "title": "谷歌服务开关",
+      "tip": "默认为Shizuku模式，可点进去修改为root模式",
       "type": 7,
       "version": 64,
       "workMode": 2
@@ -137,10 +147,55 @@
       "type": 2
     },
     {
+      "name": "空间清理",
+      "path": "snssdk2329://lynxview?gd_label=os_3dtouch_shortcut_clean_click_schema_lhft_50028900a&surl=https://lf-sourcecdn-tos.bytegecko.com/obj/byte-gurd-source/growth/luckycat/lynx/aweme_ug_popups/pages/uninstallShortcutPage/template.js?hide_loading=1&hide_nav_bar=true&use_bdx=1&hide_loading=1&hide_nav_bar=1&use_bdx=1&should_full_screen=1&use_xbridge3=1&use_bullet_container=1&bdx_launch_mode=remove_same_page&bdx_tag=uninstall_page_ug&buriedInfo={\"business\":\"touch\",\"business_tag\":\"uninstall\",\"title\":\"卸载\",\"user_touch\":\"user_touch\"}&show_feedback=1&enable_pad_adapter=true&launch_mode=os_3dtouch&enter_to=shortcut_clean&item_type=shortcut_clean",
+      "title": "抖音极速版 空间清理",
+      "subname": "抖音极速版",
+      "type": 2
+    },
+    {
       "name": "搜索",
       "path": "snssdk1128://search/",
       "title": "抖音 搜索",
       "subname": "抖音",
+      "type": 2
+    },
+    {
+      "name": "关注",
+      "path": "snssdk1128://land_tab?tabid=homepage_follow",
+      "title": "抖音 关注tab",
+      "subname": "抖音",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "name": "直播",
+      "path": "snssdk1128://land_tab?tabid=homepage_tablive",
+      "title": "抖音 直播tab",
+      "subname": "抖音",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "name": "团购",
+      "path": "snssdk1128://land_tab?tabid=homepage_groupon",
+      "title": "抖音 团购tab",
+      "subname": "抖音",
+      "author": "酷安@小鸠下汐",
+      "type": 2
+    },
+    {
+      "name": "领金币",
+      "path": "snssdk2329://feed/money?enter_from=luckydog",
+      "title": "抖音极速版 领金币",
+      "subname": "抖音极速版",
+      "type": 2
+    },
+    {
+      "name": "领金币",
+      "path": "ksnebula://webview?url=https://nebula.kuaishou.com/nebula/task/earning?layoutType=4&hyId=nebula_earning&source=long_press_app_icon",
+      "title": "快手极速版 领金币",
+      "subname": "快手极速版",
       "type": 2
     },
     {
