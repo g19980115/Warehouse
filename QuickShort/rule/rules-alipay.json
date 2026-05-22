@@ -26,7 +26,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_alipay_health.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_alipay_health.png",
       "name": "电子医保码",
       "path": "alipays://platformapi/startapp?appId=20002069&fromSource=quickWay&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
       "subname": "支付宝",
@@ -41,7 +41,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_alipay.png",
       "name": "支付宝网页",
       "path": "alipays://platformapi/startapp?appId=20000067&url=http://www.baidu.com",
       "subname": "支付宝",
@@ -49,7 +49,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/zfb_zsgj.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/zfb_zsgj.png",
       "name": "掌上公交",
       "path": "alipays://platformapi/startapp?appId=2021001126622372",
       "subname": "支付宝",

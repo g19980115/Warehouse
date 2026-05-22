@@ -26,7 +26,7 @@
       "type": 1
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_weixin_health.png",
       "name": "电子医保码",
       "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
       "pkg": "gh_45334679e384",
@@ -64,7 +64,7 @@
       "workMode": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_wechat.png",
       "name": "一键通话",
       "path": "[{\"item\":{\"appId\":\"com.tencent.mm\",\"iconPath\":\"\",\"name\":\"视频\",\"param1\":\"{\\\"action\\\":\\\"com.tencent.mm.ui.ShortCutDispatchAction\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"LauncherUI.Shortcut.LaunchType\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"launch_type_voip\\\"}]}\",\"path\":\"com.tencent.mm.ui.LauncherUI\",\"subName\":\"语音通话可把下方的Extras改为launch_type_voip_audio\",\"type\":0}},{\"item\":{\"iconPath\":\"android.resource://com.syyf.quickpay/drawable/ic_warning\",\"name\":\"进去改名字\",\"path\":\"[{\\\"actionType\\\":2,\\\"delay\\\":1000,\\\"param1\\\":\\\"在微信添加星标，然后这里写对方的昵称(无障碍容易掉权限，建议到[更多设置]激活自动打开无障碍)\\\",\\\"timeout\\\":8000,\\\"type\\\":0}]\",\"subName\":\"\",\"type\":5}}]",
       "subname": "流水线",
@@ -119,7 +119,7 @@
       "type": 2
     },
     {
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_wechat.png",
       "name": "微信网页",
       "path": "am start -n com.tencent.mm/com.tencent.mm.plugin.webview.ui.tools.WebViewUI -d https://www.baidu.com",
       "subname": "微信",
