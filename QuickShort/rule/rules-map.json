@@ -68,6 +68,13 @@
       "type": 2
     },
     {
+      "name": "驾车巡航",
+      "path": "amapuri://drive/CarCruisePage?from=traffic_light",
+      "subname": "高德地图",
+      "title": "高德地图 驾车巡航",
+      "type": 2
+    },
+    {
       "name": "足迹",
       "path": "amapuri://ajx?path=amap_bundle_content_value_added/src/track_record/TrackRecord.page.js",
       "subname": "高德地图",
@@ -86,6 +93,14 @@
       "path": "qqmap://map/busCode",
       "subname": "腾讯地图",
       "title": "腾讯地图乘车码",
+      "type": 2
+    },
+    {
+      "name": "搜索",
+      "path": "qqmap://map/search",
+      "subname": "腾讯地图",
+      "title": "腾讯地图搜索",
+      "author": "酷安@菠萝油搭冰柠檬茶",
       "type": 2
     }
   ]

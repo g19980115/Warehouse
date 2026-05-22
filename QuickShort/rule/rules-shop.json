@@ -15,7 +15,7 @@
       "path": "com.ss.android.ugc.aweme.app.DeepLinkHandlerActivity",
       "pkg": "com.ss.android.ugc.aweme",
       "subname": "抖音",
-      "title": "抖音商城订单",
+      "title": "抖音 商城订单",
       "type": 0
     },
     {
@@ -24,7 +24,16 @@
       "path": "com.ss.android.ugc.aweme.app.DeepLinkHandlerActivity",
       "pkg": "com.ss.android.ugc.aweme",
       "subname": "抖音",
-      "title": "抖音商城-待收货",
+      "title": "抖音 待收货",
+      "type": 0
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"aweme://lynxview/?channel\\u003dpoi_ng_order_center\\u0026is_life_poi\\u003d1\\u0026bundle\\u003dtemplate.js\\u0026hide_nav_bar\\u003d1\\u0026trans_status_bar\\u003d1\\u0026dynamic\\u003d1\\u0026use_gecko_first\\u003d1\\u0026surl\\u003dhttps%3A%2F%2Flf-normal-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Flife%2Fgroupon%2Fresource%2Fpoi_ng_order_center%2Ftemplate.js\\u0026landing_tab\\u003d3\",\"extras\":[],\"flags\":-1}",
+      "name": "团购订单",
+      "path": "com.ss.android.ugc.aweme.app.DeepLinkHandlerActivity",
+      "pkg": "com.ss.android.ugc.aweme",
+      "subname": "抖音",
+      "title": "抖音 团购订单",
       "type": 0
     },
     {
@@ -33,6 +42,13 @@
       "pkg": "com.jingdong.app.mall",
       "path": "https://h5.m.jd.com/babelDiy/Zeus/2RePMzTqg6UoffvMwtwVeMcnPGeg/index.html?defaultViewTab=0&appId=cuser&type=25#/",
       "title": "京东 价保中心",
+      "type": 2
+    },
+    {
+      "name": "外卖",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params=%7B%22category%22%3A%22jump%22%2C%22des%22%3A%22HomePageTopTab%22%2C%22param%22%3A%7B%22tabId%22%3A%2238%22%2C%22moduleId%22%3A%2213376%22%7D%7D",
+      "title": "京东 外卖(秒送)",
       "type": 2
     },
     {
@@ -47,6 +63,13 @@
       "subname": "京东",
       "path": "openApp.jdMobile://virtual?params={category:jump,des:orderlist,functionId:daishouhuo}",
       "title": "京东 待收货",
+      "type": 2
+    },
+    {
+      "name": "商品收藏",
+      "subname": "京东",
+      "path": "openApp.jdMobile://virtual?params={category:jump,des:Mguanzhu}",
+      "title": "京东 商品收藏",
       "type": 2
     },
     {
@@ -89,6 +112,14 @@
       "type": 2
     },
     {
+      "name": "商品收藏",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/likes.html",
+      "title": "拼多多 商品收藏",
+      "type": 2
+    },
+    {
       "name": "我的快递",
       "subname": "拼多多",
       "pkg": "com.xunmeng.pinduoduo",
@@ -98,11 +129,19 @@
       "type": 2
     },
     {
-      "name": "取快递",
+      "name": "取快递1",
+      "subname": "拼多多",
+      "pkg": "com.xunmeng.pinduoduo",
+      "path": "pinduoduo://com.xunmeng.pinduoduo/mdkd/package",
+      "title": "拼多多 取快递-扫码亮灯",
+      "type": 2
+    },
+    {
+      "name": "取快递2",
       "subname": "拼多多",
       "pkg": "com.xunmeng.pinduoduo",
       "path": "pinduoduo://com.xunmeng.pinduoduo/psnl_goods_help.html?_t_module_name=assistant_pickup",
-      "title": "拼多多 取快递",
+      "title": "拼多多 取快递-取件码",
       "type": 2
     },
     {
@@ -153,11 +192,61 @@
       "type": 2
     },
     {
+      "name": "收藏",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "https://web.m.taobao.com/app/message-social-front/itao-favor-weex2/index?wh_weex=true&weex_mode=dom&wx_navbar_hidden=true&wx_statusbar_hidden=true&collection_source=tool&spm=a2141.7631743.2.20&scm=20140623.1.2.1",
+      "title": "淘宝 收藏",
+      "type": 2
+    },
+    {
+      "name": "闪购",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Ftb.ele.me%2Fapp%2FTBTakeout%2Fet-home%2Fhome%3Fafc_tms_weex%3Dtrue%26afc_weex_min_appver%3D10.49.5%26weex_force_tms%3Dtrue%26_wx_statusbar_hidden%3Dtrue%26wx_navbar_hidden%3Dtrue%26disableNav%3DYES%26tms_force%3Dtrue%26isTab%3Dfalse",
+      "title": "淘宝闪购",
+      "author": "酷安@PenicillinA",
+      "type": 2
+    },
+    {
+      "name": "闪购订单",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fh5.ele.me%2Fminisite%2Fpages%2Forder-list%2Findex%3Ffrom%3Dminiapp.taobao%26channelInfo%3D%257B%2522subSubChannel%2522%253A%2522miniapp.taobao.et%2522%257D%26hide-tabbar%3D1%26disableNav%3DYES%26status_bar_transparent%3Dtrue%26isTab%3Dfalse",
+      "title": "淘宝闪购-订单",
+      "author": "酷安@PenicillinA",
+      "type": 2
+    },
+    {
+      "name": "爆品团",
+      "subname": "淘宝",
+      "pkg": "com.taobao.taobao",
+      "path": "taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=3000000132629983&nbsn=RELEASE&query=ptChannel%3Det_kingkong%26ptScene%3Dtaobao_et_venue%26__poiNavToHomeType%3D1&page=%2FpagesMain%2Fpages%2Fhome%2Findex%3Fsource%3DfromShare%26ptChannel%3DsnsGroupShare&x_object_type=miniapp&x_miniapp_id=3000000132629983",
+      "title": "淘宝闪购-爆品团",
+      "author": "酷安@PenicillinA",
+      "type": 2
+    },
+    {
       "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
       "name": "搜索",
       "subname": "美团",
       "path": "imeituan://www.meituan.com/page/search/home?lch=mhq0lV4qPTqkOwMXUnt7H3nSQ&entrance=4",
       "title": "美团 搜索",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "搜索",
+      "subname": "美团外卖",
+      "path": "meituanwaimai://waimai.meituan.com/searchguide",
+      "title": "美团外卖 搜索",
+      "type": 2
+    },
+    {
+      "name": "外卖",
+      "subname": "美团",
+      "path": "imeituan://www.meituan.com/takeout/homepage?g_source=1&ji=90132&jf=d8f715&wi=39960&wf=0080g6&channel=waimai",
+      "title": "美团APP-外卖",
       "type": 2
     },
     {
@@ -186,6 +275,13 @@
       "subname": "美团",
       "path": "imeituan://www.meituan.com/mmp?appId=gh_84b9766b95bc&targetPath=%2Fpages%2Findex%2Findex",
       "title": "美团优选",
+      "type": 2
+    },
+    {
+      "name": "订单",
+      "subname": "小红书",
+      "path": "xhsdiscover://rn/lancer-slim/order/list",
+      "title": "小红书订单",
       "type": 2
     }
   ]

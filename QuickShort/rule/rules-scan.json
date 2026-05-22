@@ -3,7 +3,7 @@
     {
       "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_scan",
       "name": "扫一扫",
-      "path": "alipays://platformapi/startapp?saId=10000007&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
+      "path": "alipays://platformapi/startapp?appId=10000007&sourceId=scan3dtouch#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
       "subname": "支付宝",
       "title": "支付宝扫一扫",
       "type": 2
@@ -95,10 +95,32 @@
       "type": 2
     },
     {
+      "name": "乘车码",
+      "path": "snssdk1128://codepay/ccm/home",
+      "subname": "抖音",
+      "title": "抖音 乘车码",
+      "type": 2
+    },
+    {
       "name": "扫一扫",
       "path": "snssdk1128://aweme/scan",
       "subname": "抖音",
       "title": "抖音 扫一扫",
+      "type": 2
+    },
+    {
+      "name": "钱包",
+      "path": "snssdk1128://wallet_index",
+      "subname": "美团",
+      "title": "抖音钱包",
+      "type": 2
+    },
+    {
+      "name": "扫一扫",
+      "path": "feishu://applink.feishu.cn/client/qrcode/main",
+      "subname": "飞书",
+      "title": "飞书 扫一扫",
+      "author": "酷安@cosmos__",
       "type": 2
     },
     {
@@ -147,10 +169,17 @@
     {
       "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
       "name": "付款码",
-      "path": "imeituan://www.meituan.com/web?url=https%3A%2F%2Fawp.meituan.com%2Fpayfe%2Funion-pay-qrcode%2Findex.html",
+      "path": "imeituan://www.meituan.com/web?url=https%3A%2F%2Fawp.meituan.com%2Fpayfe%2Funion-pay-qrcode%2Findex.html&time={{QsTimeSeconds}}",
       "subname": "美团",
       "title": "美团付款码(有时打不开,建议用外卖app版)",
       "author": "酷安@太多",
+      "type": 2
+    },
+    {
+      "name": "钱包",
+      "path": "imeituan://www.meituan.com/web?url=https://npay.meituan.com/fup-ssr-wallet/indexV6&time={{QsTimeMills}}",
+      "subname": "美团",
+      "title": "美团钱包",
       "type": 2
     },
     {
@@ -200,6 +229,13 @@
       "path": "taobao://h5.m.taobao.com/tusou/capture.html",
       "subname": "淘宝",
       "title": "淘宝 拍照购",
+      "type": 2
+    },
+    {
+      "name": "拍图搜",
+      "path": "fleamarket://media_scan_and_search?flutter=true&reqFromPage=graphSearch&bizCode=home&mode=search",
+      "subname": "闲鱼",
+      "title": "闲鱼拍图搜",
       "type": 2
     }
   ]

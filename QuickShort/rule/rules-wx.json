@@ -17,6 +17,15 @@
       "type": 2
     },
     {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_ccm",
+      "name": "乘车码",
+      "path": "pages/qrcode/index.html",
+      "pkg": "gh_3cf62f4f1d52",
+      "subname": "微信",
+      "title": "乘车码",
+      "type": 1
+    },
+    {
       "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
       "name": "电子医保码",
       "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
@@ -38,10 +47,10 @@
       "icon": "http://mmbiz.qpic.cn/mmbiz_png/LMpuofDxmfcGwZLyHKUUprqf9pzs1gjxW4BB9EJvqicYQ4JGZQRZJeLIyibGgPCvQJpBKffJKpBpuJNKlSpibicdYg/640?wx_fmt=png&wxfrom=200",
       "name": "公交码",
       "subname": "微信",
-      "title": "湖北 i武汉-公交码(需要无障碍)",
-      "path": "[{\"item\":{\"appId\":\"gh_ef33e6cd1cc9\",\"iconPath\":\"\",\"id\":0,\"name\":\"i武汉\",\"path\":\"\",\"subName\":\"\",\"type\":1}},{\"item\":{\"appId\":\"\",\"dlType\":-2,\"iconPath\":\"\",\"name\":\"公交码\",\"path\":\"[{\\\"actionType\\\":2,\\\"delay\\\":0,\\\"param1\\\":\\\"个人中心\\\",\\\"param2\\\":\\\"乘车码\\\",\\\"timeout\\\":25000,\\\"type\\\":0},{\\\"actionType\\\":2,\\\"delay\\\":2000,\\\"param1\\\":\\\"公交码\\\",\\\"timeout\\\":15000,\\\"type\\\":0}]\",\"subName\":\"\",\"type\":5}}]",
-      "version": 52,
-      "type": 6
+      "title": "湖北 i武汉-公交码",
+      "path": "packages/gov-service-code/pages/service-code/index.html",
+      "pkg": "gh_ef33e6cd1cc9",
+      "type": 1
     },
     {
       "extras": "0",
@@ -76,6 +85,37 @@
       "subname": "微信",
       "title": "文件传输助手",
       "author": "酷安@客行无道",
+      "type": 2
+    },
+	{
+      "name": "指定群聊",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x00008000;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=群聊ID@chatroom;end",
+      "subname": "更改Username=后面的群聊ID，需要将群聊保存到通讯录，id可通过设置背景图取得",
+      "title": "指定群聊",
+	  "author": "酷安@CA丶，酷安@耳阝阝东",
+	  "tip": "群聊ID获取方法，修改群聊背景图(从相册选择)，将群聊保存到通讯录(重要)，然后在Android/data/com.tencent.mm/MicroMsg/一长串字母数字/package/,在这个目录找到对应图片，群聊是id@chatroom，个人是wxid_开头。方法来自 酷安@owlowl",
+      "type": 2
+    },
+    {
+      "name": "微信支付服务号",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=gh_3dfda90e39d6;end",
+      "subname": "微信服务号",
+      "title": "微信支付服务号",
+      "type": 2
+    },
+    {
+      "name": "微信运动",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=gh_43f2581f6fd6;end",
+      "subname": "微信",
+      "title": "微信运动",
+      "type": 2
+    },
+    {
+      "name": "腾讯元宝",
+      "path": "android-app://com.tencent.mm/#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=wxid_wi_1d142z0zdj03;launchFlags=0x14000000;end",
+      "subname": "微信",
+      "title": "腾讯元宝",
+      "author": "酷安@小鸠下汐",
       "type": 2
     },
     {
