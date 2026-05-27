@@ -1,7 +1,12 @@
 {
+  "replaceUrl": "https://gitee.com/night99/filebackup/raw/master/quickpay/",
+  "baseUrls": [
+    "https://gitee.com/night99/filebackup/raw/master/quickpay/",
+    "https://quickshort.pages.dev/QuickShort/"
+  ],
   "data": [
     {
-      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_douyin.png",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_douyin.png",
       "name": "抖音商城",
       "path": "snssdk1128://mall/xtab",
       "pkg": "com.ss.android.ugc.aweme",

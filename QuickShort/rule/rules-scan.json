@@ -1,4 +1,9 @@
 {
+  "replaceUrl": "https://gitee.com/night99/filebackup/raw/master/quickpay/",
+  "baseUrls": [
+    "https://gitee.com/night99/filebackup/raw/master/quickpay/",
+    "https://quickshort.pages.dev/QuickShort/"
+  ],
   "data": [
     {
       "icon": "android.resource://com.syyf.quickpay/drawable/quick_alipay_scan",
@@ -33,7 +38,7 @@
       "type": 2
     },
     {
-      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_alipay_health.png",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_alipay_health.png",
       "name": "电子医保码",
       "path": "alipays://platformapi/startapp?appId=20002069&fromSource=quickWay&source=shortcut#Intent;component=com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity;B.directly=true;B.fromDesktop=true;end",
       "subname": "支付宝",
@@ -41,7 +46,7 @@
       "type": 2
     },
     {
-      "icon": "https://quickshort.pages.dev/QuickShort/icon/quick_weixin_health.png",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
       "name": "电子医保码",
       "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
       "pkg": "gh_45334679e384",
@@ -140,7 +145,7 @@
     },
     {
       "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"key_jump_url\",\"type\":\"--es\",\"value\":\"https://www.myquark.cn/?qk_tech\\u003ddesktop\\u0026desktop_entry\\u003dcamera\\u0026camera_tab\\u003dscan_document\\u0026camera_sub_tab\\u003dscan_document\\u0026entry\\u003dphone_desktop_scan\"}],\"flags\":-1}",
-      "icon": "https://quickshort.pages.dev/QuickShort/icon/ic_quark.png",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
       "name": "万能扫码",
       "path": "com.ucpro.MainActivity",
       "pkg": "com.quark.browser",
