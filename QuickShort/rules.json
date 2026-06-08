@@ -319,6 +319,15 @@
       "author": "酷安@墨汀"
     },
     {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+      "name": "钉钉签到",
+      "path": "dingtalk://dingtalkclient/page/link?corpId=$CORPID$&url= https://attendance.dingtalk.com/attendance/mobile/mapAttendance.html?showmenu=false&dd_progress=false&dd_share=false&dd_full_screen=true&dd_enable_replace=true",
+      "subname": "钉钉",
+      "title": "钉钉签到",
+      "type": 2,
+      "author": "酷安@海晕、@牵好妻妻的手"
+    },
+    {
       "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"OpenAll\",\"extras\":[{\"key\":\"android.intent.extra.REFERRER_NAME\",\"type\":\"--es\",\"value\":\"a\"}],\"flags\":-1}",
       "title": "易拉开门",
       "name": "易拉开门",
