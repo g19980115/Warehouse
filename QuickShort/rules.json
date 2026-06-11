@@ -259,6 +259,14 @@
       "type": 7
     },
     {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/EpMdmcCdnDLZq6ztoQbnafAVVKvxrPgaKl1ZNMrs3icbpNxqpxwq97YuSskHZrbKzzB71bm8CkWRZ9qobTIVbsQ/640?wx_fmt=png&wxfrom=200",
+      "name": "农场",
+      "path": "mqqapi://microapp/open?url=https%3A%2F%2Fm.q.qq.com%2Fa%2Fs%2F660b335ac097063c83e2c4004add65e9&src_type=web",
+      "subname": "QQ",
+      "title": "QQ经典农场",
+      "type": 2
+    },
+    {
       "name": "截图",
       "subname": "shell",
       "path": "input keyevent 120",
