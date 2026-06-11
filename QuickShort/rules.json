@@ -264,7 +264,8 @@
       "path": "mqqapi://microapp/open?url=https%3A%2F%2Fm.q.qq.com%2Fa%2Fs%2F660b335ac097063c83e2c4004add65e9&src_type=web",
       "subname": "QQ",
       "title": "QQ经典农场",
-      "type": 2
+      "type": 2,
+      "author": "酷安@零灵零灵"
     },
     {
       "name": "截图",
