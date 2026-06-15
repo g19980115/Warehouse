@@ -76,6 +76,14 @@
       "andVer": 30
     },
     {
+      "name": "BWIKI",
+      "path": "#Intent;launchFlags=0x14000000;component=tv.danmaku.bili/com.bilibili.biligame.web.GameWikiWebActivity;S.sourceFrom=400005;B.shortcut=true;S.url=https://wiki.biligame.com/wiki/首页;B.duplicate=false;end",
+      "subname": "bilibili",
+      "title": "BWIKI",
+      "type": 2,
+      "author": "酷安@绝版男孩"
+    },
+    {
       "name": "电池信息",
       "title": "电池信息",
       "subname": "设置",
@@ -259,13 +267,31 @@
       "type": 7
     },
     {
-      "icon": "http://mmbiz.qpic.cn/mmbiz_png/EpMdmcCdnDLZq6ztoQbnafAVVKvxrPgaKl1ZNMrs3icbpNxqpxwq97YuSskHZrbKzzB71bm8CkWRZ9qobTIVbsQ/640?wx_fmt=png&wxfrom=200",
+      "icon": "https://minigame.gtimg.cn/public/appicon/1112386029/4aJT4YdP-1769936597-m.jpg",
       "name": "农场",
       "path": "mqqapi://microapp/open?url=https%3A%2F%2Fm.q.qq.com%2Fa%2Fs%2F660b335ac097063c83e2c4004add65e9&src_type=web",
       "subname": "QQ",
       "title": "QQ经典农场",
       "type": 2,
       "author": "酷安@零灵零灵"
+    },
+    {
+      "name": "天气",
+      "path": "#Intent;launchFlags=0x10040000;component=com.tencent.mobileqq/.activity.QPublicFragmentActivity;S.public_fragment_class=com.tencent.mobileqq.weather.part.WeatherMainPartFragment;end",
+      "subname": "QQ",
+      "title": "QQ天气",
+      "type": 2,
+      "workMode": 1,
+      "author": "酷安@绝版男孩、@MT启明星"
+    },
+    {
+      "name": "微视",
+      "path": "#Intent;launchFlags=0x40000;component=com.tencent.mobileqq/.activity.PublicFragmentActivity;S.public_fragment_class=com.tencent.biz.pubaccount.weishi.main.WSMainContainerFragment;end",
+      "subname": "QQ",
+      "title": "QQ微视",
+      "type": 2,
+      "workMode": 1,
+      "author": "酷安@绝版男孩、@MT启明星"
     },
     {
       "name": "截图",
