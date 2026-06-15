@@ -116,6 +116,15 @@
       "type": 2
     },
     {
+      "name": "视频号",
+      "path": "#Intent;launchFlags=0x34000000;component=com.tencent.mm/.plugin.finder.ui.FinderHomeAffinityUI;S.key_red_dot_id=;B.isEnableShowUnreadFeed=true;S.KEY_HOME_PAGE_CLS=com.tencent.mm.ui.LauncherUI;i.FROM_SCENE_KEY=2;S.KEY_FROM_PATH=FinderEntrance;S.key_common_extra_info={\"clientReportInfo\":{}};S.key_context_id=1-1-20-0d76a16357ef41b3983cdd879510b5e4;end",
+      "subname": "微信",
+      "title": "微信视频号",
+      "workMode": 1,
+      "author": "酷安@绝版男孩",
+      "type": 2
+    },
+    {
       "name": "腾讯元宝",
       "path": "android-app://com.tencent.mm/#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=wxid_wi_1d142z0zdj03;launchFlags=0x14000000;end",
       "subname": "微信",
