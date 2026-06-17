@@ -82,6 +82,13 @@
       "type": 2
     },
     {
+      "name": "福利中心",
+      "path": "amapuri://webview/amaponline?amap_biz=C2_taxi&hide_title=1&monitor_switch=1&needPushAnimation=false&url=https%3A%2F%2Fdache.amap.com%2Fcommon%2Famap%3Fadcode%3D440300%26ajx_open_id%3D1781690866116%26amap_entrance%3D1%26app_lang%3Dzh-Hans%26bizVersion%3D090500%26biz_lang%3Dzh-Hans%26displayMode%3Dnormal%26i18n_tz_offset%3D28800000%26i18n_zone%3D156%26isPreActiveType%3D0%26prefetch%3D1%26preload_enable%3D1%26source_url%3Dpath%253A%252F%252Famap_bundle_taxi%252Fsrc%252Ftaxi_index%252Fpage%252Fmain%252FTaxiMainHome.page.js%23%2Fwelfare%2Fwelfare-center",
+      "subname": "高德地图",
+      "title": "高德地图 打车福利中心",
+      "type": 2
+    },
+    {
       "name": "腾讯公交",
       "path": "qqmap://map/mippy?moduleName=realtimebus&appName=HomePage&statusBar=dark&animationType=right&channel=shortcutmenu",
       "subname": "腾讯地图",
