@@ -94,7 +94,7 @@
     },
 	{
       "name": "指定群聊",
-      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x00008000;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=群聊ID@chatroom;end",
+      "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x10008000;B.LauncherUI.From.Biz.Shortcut=true;S.LauncherUI.Shortcut.Username=群聊ID@chatroom;end",
       "subname": "更改Username=后面的群聊ID，需要将群聊保存到通讯录，id可通过设置背景图取得",
       "title": "指定群聊",
 	  "author": "酷安@CA丶，酷安@耳阝阝东",
