@@ -1,11 +1,22 @@
 {
-  "result": 0,
-  "versionCode": 48,
-  "versionName": "v2.3.9",
-  "fileSize": 2500747,
-  "time": 1679474845,
-  "message": "1、完善部分提示",
-  "urls": [{"url":"https://github.com/g19980115/Warehouse/raw/master/ColorWatchPush/ColorPush_v1.5.8.apk","title":"Github直链"},
-  {"url":"https://github.com/g19980115/Warehouse/raw/master/ColorWatchPush/ColorPush_v1.5.8.apk","title":"CloudFlare(江苏不可用)"},
-  {"url":"https://github.com/g19980115/Warehouse/raw/master/ColorWatchPush/ColorPush_v1.5.8.apk","title":"gh-proxy(Github加速)"}],
+	"result": 0,
+	"versionCode": 48,
+	"versionName": "v2.3.9",
+	"fileSize": 2500747,
+	"time": 1679474845,
+	"message": "1、完善部分提示",
+	"urls": [{
+			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v239_162_sign.apk",
+			"title": "gh-proxy(Github加速)"
+		},
+    {
+			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v239_162_sign.apk",
+			"title": "CloudFlare(江苏不可用)"
+		},
+		{
+			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v239_162_sign.apk",
+			"title": "Github直链",
+			"jumpWeb": true
+		}
+	]
 }
