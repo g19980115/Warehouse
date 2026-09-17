@@ -1,20 +1,20 @@
 {
 	"result": 0,
-	"versionCode": 163,
-	"versionName": "v2.3.9",
-	"fileSize": 10715848,
-	"time": 1789540743,
-	"message": "1、完善部分提示",
+	"versionCode": 164,
+	"versionName": "2.4.0",
+	"fileSize": 16531724,
+	"time": 1795055260,
+	"message": "1. 修复小部件自动点击失效的问题\n2. 网格小部件新增禁止滑动设置，禁止后可不影响桌面下拉手势",
 	"urls": [{
-			"url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_2.3.9.apk",
+			"url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
 			"title": "gh-proxy(Github加速)"
 		},
     {
-			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_2.3.9.apk",
+			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
 			"title": "CloudFlare(江苏不可用)"
 		},
 		{
-			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_2.3.9.apk",
+			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
 			"title": "Github直链",
 			"jumpWeb": false
 		}
