@@ -1,22 +1,22 @@
 {
-	"result": 0,
-	"versionCode": 163,
-	"versionName": "2.4.0",
-	"fileSize": 16531724,
-	"time": 1789635076,
-	"message": "1. 修复小部件自动点击失效的问题\n2. 网格小部件新增禁止滑动设置，禁止后可不影响桌面下拉手势",
-	"urls": [{
-			"url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
-			"title": "gh-proxy(Github加速)"
-		},
+  "result": 0,
+  "versionCode": 164,
+  "versionName": "2.4.1",
+  "fileSize": 13805085,
+  "time": 1791535360,
+  "message": "1. 新增文字图标\n2.  新增使用图标包功能(更多设置-使用图标包)\n3. 修复网格小部件禁止滑动后文字颜色不生效的问题",
+  "urls": [{
+    "url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
+    "title": "gh-proxy(Github加速)"
+  },
     {
-			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
-			"title": "CloudFlare(江苏不可用)"
-		},
-		{
-			"url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v240_sign.apk",
-			"title": "Github直链",
-			"jumpWeb": false
-		}
-	]
+      "url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
+      "title": "CloudFlare(江苏不可用)"
+    },
+    {
+      "url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
+      "title": "Github直链",
+      "jumpWeb": false
+    }
+  ]
 }
