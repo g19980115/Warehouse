@@ -4,7 +4,7 @@
   "versionName": "2.4.1",
   "fileSize": 13805085,
   "time": 1791535360,
-  "message": "1. 新增文字图标\n2.  新增使用图标包功能(更多设置-使用图标包)\n3. 修复网格小部件禁止滑动后文字颜色不生效的问题",
+  "message": "1. 新增文字图标\n2. 新增使用图标包功能(更多设置-使用图标包)\n3. 修复网格小部件禁止滑动后文字颜色不生效的问题",
   "urls": [{
     "url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
     "title": "gh-proxy(Github加速)"
