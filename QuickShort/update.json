@@ -1,20 +1,20 @@
 {
   "result": 0,
-  "versionCode": 164,
-  "versionName": "2.4.1",
-  "fileSize": 13805085,
-  "time": 1791535360,
-  "message": "1. 新增文字图标\n2. 新增使用图标包功能(更多设置-使用图标包)\n3. 修复网格小部件禁止滑动后文字颜色不生效的问题",
+  "versionCode": 165,
+  "versionName": "2.4.2",
+  "fileSize": 16569205,
+  "time": 1792484912,
+  "message": "1. 集合新增字母排序，新增小窗打开集合内项目\n2. 自定义页新增分组全选功能，便于整组移动或删除\n3. 批量导入应用(添加活动-右上角菜单)功能优化，可选是否显示系统应用，新增全选，保存时可指定分组\n4. 布局范围分析功能优化，不显示状态栏区域，避免部分机型悬浮窗不能拓展到状态栏造成的位置偏移",
   "urls": [{
-    "url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
+    "url": "https://gh-proxy.org/https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v242_sign.apk",
     "title": "gh-proxy(Github加速)"
   },
     {
-      "url": "https://quickshort.pages.dev/QuickShort/apk/quick_v241_sign.apk",
+      "url": "https://quickshort.pages.dev/QuickShort/apk/quick_v242_sign.apk",
       "title": "CloudFlare(江苏不可用)"
     },
     {
-      "url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v241_sign.apk",
+      "url": "https://github.com/g19980115/Warehouse/raw/master/QuickShort/apk/quick_v242_sign.apk",
       "title": "Github直链",
       "jumpWeb": false
     }
